@@ -19,3 +19,7 @@ running `yarn codegen` will throw this error:
 ```
  Unable to find field "__type" on type "Query"!
 ```
+
+playground:
+
+`https://codegen-apollo-repro.vercel.app/api/graphql`
